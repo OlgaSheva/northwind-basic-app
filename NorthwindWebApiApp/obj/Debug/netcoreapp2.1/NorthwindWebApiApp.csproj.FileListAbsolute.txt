@@ -1,0 +1,14 @@
+C:\Users\helga\northwind-basic-app\NorthwindWebApiApp\bin\Debug\netcoreapp2.1\NorthwindWebApiApp.deps.json
+C:\Users\helga\northwind-basic-app\NorthwindWebApiApp\bin\Debug\netcoreapp2.1\NorthwindWebApiApp.runtimeconfig.json
+C:\Users\helga\northwind-basic-app\NorthwindWebApiApp\bin\Debug\netcoreapp2.1\NorthwindWebApiApp.runtimeconfig.dev.json
+C:\Users\helga\northwind-basic-app\NorthwindWebApiApp\bin\Debug\netcoreapp2.1\NorthwindWebApiApp.dll
+C:\Users\helga\northwind-basic-app\NorthwindWebApiApp\bin\Debug\netcoreapp2.1\NorthwindWebApiApp.pdb
+C:\Users\helga\northwind-basic-app\NorthwindWebApiApp\obj\Debug\netcoreapp2.1\NorthwindWebApiApp.csprojAssemblyReference.cache
+C:\Users\helga\northwind-basic-app\NorthwindWebApiApp\obj\Debug\netcoreapp2.1\NorthwindWebApiApp.csproj.CoreCompileInputs.cache
+C:\Users\helga\northwind-basic-app\NorthwindWebApiApp\obj\Debug\netcoreapp2.1\NorthwindWebApiApp.RazorAssemblyInfo.cache
+C:\Users\helga\northwind-basic-app\NorthwindWebApiApp\obj\Debug\netcoreapp2.1\NorthwindWebApiApp.RazorAssemblyInfo.cs
+C:\Users\helga\northwind-basic-app\NorthwindWebApiApp\obj\Debug\netcoreapp2.1\NorthwindWebApiApp.AssemblyInfoInputs.cache
+C:\Users\helga\northwind-basic-app\NorthwindWebApiApp\obj\Debug\netcoreapp2.1\NorthwindWebApiApp.AssemblyInfo.cs
+C:\Users\helga\northwind-basic-app\NorthwindWebApiApp\obj\Debug\netcoreapp2.1\NorthwindWebApiApp.RazorTargetAssemblyInfo.cache
+C:\Users\helga\northwind-basic-app\NorthwindWebApiApp\obj\Debug\netcoreapp2.1\NorthwindWebApiApp.dll
+C:\Users\helga\northwind-basic-app\NorthwindWebApiApp\obj\Debug\netcoreapp2.1\NorthwindWebApiApp.pdb
